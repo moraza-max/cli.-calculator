@@ -42,6 +42,6 @@ Code
 Enter choice: 1
 Enter first number: 10
 Enter second number: 5
+Result = 15
 
 Made By MO RAZA 26BCE10678
-Result: 15
